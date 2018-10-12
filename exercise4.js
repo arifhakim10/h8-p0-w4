@@ -1,13 +1,5 @@
 function cariModus(arr) {
-  // you can only write your code here!
-  // tampung frekuensi, frekuensi terbesar, modus assign 0
-  // looping 2 kali, bandingkan i dgn j serta j tdk sama i 
-  // masukan ke frekuensi lalu bandingkan dengan frek terbesar
-  // tampung modus dengan i 
-  // jika frekuensi nol return -1 
-  // cek angka sama semua, tampung variable
-  //looping k lalu masukan hasilnya ke variabel tadi 
-  // jika jumlah angka sama return -1
+  
  
   var frekuensiTerbanyak = 0;
   var modus = 0;
